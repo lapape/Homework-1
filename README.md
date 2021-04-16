@@ -12,7 +12,7 @@ Utalize updated browser to view the page.
 
 The page has three navigation links in the top right that jump to the different sections of the site.
 
-`md ![gif of link function](./assets/images/Horiseon.gif) `
+![gif of link function](./assets/images/Horiseon.gif) `
 
 ## Credits
 
